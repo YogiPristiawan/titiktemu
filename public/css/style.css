@@ -1,0 +1,31 @@
+.navigasi {
+  background-color: rgb(0, 140, 255);
+}
+
+body {
+  background-color: rgb(187, 225, 230);
+  position: relative;
+}
+
+.readMore {
+  display: none;
+}
+.kartu {
+  height: 88px;
+  overflow: hidden;
+}
+.comment-row {
+  background-color: rgb(225, 234, 236);
+  font-size: 12px;
+}
+
+.footer {
+  background-color: rgb(150, 205, 241);
+  height: 50px;
+  line-height: 50px;
+  font-size: 10px;
+
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
